@@ -1,4 +1,4 @@
-<img src="c:\Users\Falih\Pictures\picture\f img.jpg" alt="Tech Banner" width="100%" />
+<img src="https://ibb.co/r1cYbn7" alt="Tech Banner" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Mohamed Falih M</h1>
 <h3 align="center">Electronics and Communication Engineering Student | Web Developer | Tech Enthusiast</h3>
