@@ -15,7 +15,7 @@
 - 🚗 Building an Arduino Mini Car – Team Tech Titans
 - 💻 Created a Student Portfolio Website (HTML + CSS)
 - 🏆 Completed courses in HTML & CSS, *E-Sim, **HTML Basics
-- 🌱 Currently learning: JavaScript, C, C++,Python
+- 🌱 Currently learning: JavaScript, C, C++,Python,Java
 - 🌍 Languages: Tamil, English,Arabic
 - 🧠 Passionate about electronics, code, and solving real-world problems!
 
