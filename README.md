@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed Falih M</h1>
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Aspiring+Full+Stack+Developer;Java+DSA+Enthusiast;B.E. ECE Student;Tech+Explorer+%26+Learner" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;DSA+%7C+Problem+Solving;Building+Real-World+Applications" alt="Typing SVG" />
+</p>
 
 <h3 align="center">Aspiring Full Stack Developer | Java & DSA Enthusiast | B.E. ECE Student</h3>
 
