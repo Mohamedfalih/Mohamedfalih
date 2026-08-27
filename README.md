@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;DSA+%7C+Problem+Solving;Building+Real-World+Applications" alt="Typing SVG" />
 </p>
 
-<h3 align="center">Aspiring Full Stack Developer | Java & DSA Enthusiast | B.E. ECE Student</h3>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-falih-m-b0b527360">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
