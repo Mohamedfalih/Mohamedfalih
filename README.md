@@ -123,11 +123,11 @@ I regularly practice DSA and problem solving on **LeetCode**, primarily using Ja
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedfalih&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedfalih&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Mohamed Falih's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedfalih&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedfalih&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -135,10 +135,8 @@ I regularly practice DSA and problem solving on **LeetCode**, primarily using Ja
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohamedfalih&theme=tokyonight&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohamedfalih&theme=tokyonight&no-frame=true&margin-w=10&column=4" alt="GitHub Trophies" />
 </p>
-
----
 
 ## 🤝 Let's Connect
 
